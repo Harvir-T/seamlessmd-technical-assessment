@@ -1,7 +1,7 @@
 # SeamlessMD Software Test Engineer — Technical Assessment
 
 **Submitted by:** Harvir
-**Estimated time spent:** [fill in — track this before final submission]
+**Estimated time spent:** 3 1/2 hours
 
 ---
 
